@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello people
+This is **Haard Tripathi**
+
+*I am currently studying CSE*
+
+`I am an avid front-end developer(in progress)`
+
+
 
 <!--
 **Haardtripathi/Haardtripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
