@@ -66,7 +66,6 @@ I love connecting with people in the tech and blockchain space. Feel free to rea
 
 - [LinkedIn](https://www.linkedin.com/in/haardtripathi)
 - [Twitter](https://twitter.com/HaardTripathi)
-- [Portfolio](https://haardtripathi.dev) _(Optional: if you have a portfolio website)_
 
 ---
 
