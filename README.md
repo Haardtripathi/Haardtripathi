@@ -42,9 +42,6 @@ Smart contract that enables fund transfers across multiple wallets, using **Chai
 - Experience with handling **file uploads**, managing **MongoDB**, and integrating **WebSocket** for real-time applications.
 - Strong focus on building **REST APIs** and ensuring **high availability** for production-level applications.
 
-### Hackathon Enthusiast
-- Participated in **ETHIndia** and worked on multiple blockchain-based solutions for decentralized finance, utilizing **Solidity** and Chainlink oracles.
-
 ---
 
 ## 🧠 Currently Learning
