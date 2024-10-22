@@ -18,6 +18,11 @@ Welcome to my GitHub! I am a **Backend Engineer** with a passion for **Blockchai
 
 ## 🏆 Projects
 
+### [LearnLedger](https://github.com/Haardtripathi/learn-ledger-basedIndia)
+LearnLedger is a decentralized platform where educators can monetize courses and learners can invest in educational content.
+
+**Tech Stack**: Solidity, Foundry, Node JS, React, Ethers.js, Pinata, IPFS,  MongoDB
+
 ### [FundMe (Hardhat Project)](https://github.com/Haardtripathi/hardhat-fund-me-ts)
 A decentralized fundraising application utilizing **Chainlink price feeds** to transfer funds, ensuring contributions meet a minimum USD value.
 
@@ -27,11 +32,6 @@ A decentralized fundraising application utilizing **Chainlink price feeds** to t
 A comprehensive **Enterprise Resource Planning (ERP) system** demo, built using **React** for the frontend and integrated with APIs for data management.
 
 **Tech Stack**: React.js, Tailwind CSS, REST APIs
-
-### [Fund Transfer Solidity Project](https://github.com/Haardtripathi/fund-transfer-solidity)
-Smart contract that enables fund transfers across multiple wallets, using **Chainlink Data Feeds** to automate currency conversion.
-
-**Tech Stack**: Solidity, Chainlink, Ethers.js, Hardhat
 
 ---
 
