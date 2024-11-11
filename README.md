@@ -20,7 +20,7 @@ Welcome to my GitHub! I am a **Backend Engineer** with a passion for **Blockchai
 ### [DumDumBird](https://github.com/Haardtripathi/dumdumbird)
 DumDumBird is a flappy-bird-inspired game on AO/Arweave, with scores on-chain.
 
-**Tech Stack**: Solidity, Foundry, Node JS, React, Ethers.js, Pinata, IPFS,  MongoDB
+**Tech Stack**: Next,Arweave,AO,Lua
 
 ### [LearnLedger](https://github.com/Haardtripathi/learn-ledger-basedIndia)
 LearnLedger is a decentralized platform where educators can monetize courses and learners can invest in educational content.
