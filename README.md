@@ -32,7 +32,7 @@ A decentralized fundraising application utilizing **Chainlink price feeds** to t
 
 **Tech Stack**: Solidity, Hardhat, Chainlink, Foundry, Ethers.js
 
-### [ERP-Demo2-React](https://github.com/Haardtripathi/ERP-Demo2-React)
+### [ERP-SYSTEM](https://github.com/Haardtripathi/ERP-SYSTEM)
 A comprehensive **Enterprise Resource Planning (ERP) system** demo, built using **React** for the frontend and integrated with APIs for data management.
 
 **Tech Stack**: React.js, Tailwind CSS, REST APIs
