@@ -1,6 +1,6 @@
 # Hi, I'm Haard Tripathi! 👋
 
-Welcome to my GitHub! I am a **Backend Engineer** with a passion for **Blockchain Development**, specializing in **Solidity**, **Foundry**, and **Web3** technologies. With my experience in freelance projects, I aim to bridge the gap between traditional backend systems and the decentralized web.
+Welcome to my GitHub! I am a **Fullstack Developer** with a passion for **Blockchain Development**, specializing in **Solidity**, **Foundry**, and **Web3** technologies. With my experience in freelance projects, I aim to bridge the gap between traditional backend systems and the decentralized web.
 
 ## 🚀 Skills & Technologies
 
