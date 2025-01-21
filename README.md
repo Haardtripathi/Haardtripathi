@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a **Fullstack Developer** with a passion for **Blockc
 ### 🛠️ Programming & Frameworks
 - **Backend Development**: Node.js, Express.js, TypeScript, Python (Django), MySQL, MongoDB, Sequelize
 - **Blockchain Development**: Solidity, Hardhat, Foundry, Ethers.js, Chainlink, OpenZeppelin
-- **Frontend Development**: React.js, Tailwind CSS, Bootstrap, EJS
+- **Frontend Development**: React.js, Tailwind CSS, Shadcn,Lucide-react,Zustand,Bootstrap, EJS
 
 ### 📚 Currently Learning
 - WebSockets
