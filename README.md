@@ -17,6 +17,11 @@ Welcome to my GitHub! I am a **Fullstack Developer** with a passion for **Blockc
 ---
 
 ## 🏆 Projects
+### [ERP-SYSTEM](https://github.com/Haardtripathi/ERP-SYSTEM)
+A comprehensive **Enterprise Resource Planning (ERP) system** demo, built using **React** for the frontend and integrated with APIs for data management.
+
+**Tech Stack**: React.js, Express, Socket.io, Tailwind CSS, REST APIs
+
 ### [DumDumBird](https://github.com/Haardtripathi/dumdumbird)
 DumDumBird is a flappy-bird-inspired game on AO/Arweave, with scores on-chain.
 
@@ -32,10 +37,7 @@ A decentralized fundraising application utilizing **Chainlink price feeds** to t
 
 **Tech Stack**: Solidity, Hardhat, Chainlink, Foundry, Ethers.js
 
-### [ERP-SYSTEM](https://github.com/Haardtripathi/ERP-SYSTEM)
-A comprehensive **Enterprise Resource Planning (ERP) system** demo, built using **React** for the frontend and integrated with APIs for data management.
 
-**Tech Stack**: React.js, Tailwind CSS, REST APIs
 
 ---
 
