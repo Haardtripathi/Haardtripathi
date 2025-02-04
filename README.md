@@ -9,11 +9,6 @@ Welcome to my GitHub! I am a **Fullstack Developer** with a passion for **Blockc
 - **Blockchain Development**: Solidity, Hardhat, Foundry, Ethers.js, Chainlink, OpenZeppelin
 - **Frontend Development**: React.js, Tailwind CSS, Shadcn,Lucide-react,Zustand,Bootstrap, EJS
 
-### 📚 Currently Learning
-- WebSockets
-- PowerLoom and The Graph Protocol
-- Advanced CI/CD and DevOps practices
-
 ---
 
 ## 🏆 Projects
