@@ -1,4 +1,6 @@
 # Hi, I'm Haard Tripathi! 👋
+🌐 [Portfolio](https://haardtripathiportfolio.vercel.app/)
+
 
 Welcome to my GitHub! I am a **Fullstack Developer** with a passion for **Blockchain Development**, specializing in **Solidity**, **Foundry**, and **Web3** technologies. With my experience in freelance projects, I aim to bridge the gap between traditional backend systems and the decentralized web.
 
